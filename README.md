@@ -1,5 +1,5 @@
 ## Sum of Two Elements ##
-Given a number and integer array find if there are two elements that sum to the target. Java solution explained in detail on my [website](http://chrisbaileydeveloper.com/projects/sum-of-two-elements/).
+Given a target number and integer array, find all unique pairs of elements whose summation is equal to the target number. Java solution explained in detail on my [website](http://chrisbaileydeveloper.com/projects/sum-of-two-elements/).
 
 ## Steps to set up development environment in Eclipse ##
 1. **Download** or clone the project from GitHub.  

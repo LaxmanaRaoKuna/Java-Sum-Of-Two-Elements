@@ -1,17 +1,17 @@
 package com.chrisbaileydeveloper.sumoftwoelements;
 
 import static org.junit.Assert.assertArrayEquals;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
 import org.junit.Test;
+
 /**
  * JUnit testing of com.chrisbaileydeveloper.sumoftwoelements.Main class
  * 
  * @author Chris Bailey
  */
+
 public class MainTest {
 
 	static int[] mainArray = { 5, 2, 7, 1, 3, 9, 2, 7, 3, 2 };

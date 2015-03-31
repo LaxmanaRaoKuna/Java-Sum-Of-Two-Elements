@@ -39,7 +39,7 @@ public class Main {
 	 * 
 	 * @param array the number array
 	 * @param target the target number
-	 * @return list holding number location pairs
+	 * @return list holding unique number location pairs
 	 */
 
 	public static List<int[]> findPairs(int[] array, int target) {
@@ -100,7 +100,7 @@ public class Main {
 	 * 
 	 * @param array the number array
 	 * @param target the target number
-	 * @return list holding number location pairs
+	 * @return list holding unique number location pairs
 	 */
 
 	public static List<int[]> findPairsSimply(int[] array, int target) {

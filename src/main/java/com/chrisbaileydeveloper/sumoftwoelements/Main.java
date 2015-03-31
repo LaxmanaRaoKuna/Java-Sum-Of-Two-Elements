@@ -7,8 +7,8 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Given a number and integer array find if there are two elements that sum to
- * the target.
+ * Given a target number and integer array, find all unique pairs
+ * of elements whose summation is equal to the target number.
  * 
  * @author Chris Bailey
  */
